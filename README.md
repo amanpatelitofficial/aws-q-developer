@@ -1,3 +1,5 @@
+### You can also use blog - https://builder.aws.com/content/2zaNNxWt2oth2OU3jruPDXHV0yu/how-to-install-aws-q-developer-cli-on-ubuntu
+
 # aws-q-developer
 
 ### Make sure your machine is updated and has Libfuse2 installed
