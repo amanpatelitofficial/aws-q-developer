@@ -29,3 +29,9 @@ sudo apt install -y ./amazon-q.deb
 q login
 ````
 
+
+### AWS Q CLI with Kubernetes MCP Server
+
+<img width="1752" height="768" alt="image" src="https://github.com/user-attachments/assets/d607c4f3-4004-4481-9a1f-f6d3534b84eb" />
+
+
